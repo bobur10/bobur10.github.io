@@ -1,0 +1,56 @@
+body{
+
+    background: url("cool.jpg");
+    background-size: 100%;
+
+}
+h1{
+	font-family: rockwell;
+    font-size: 40px;
+    color:maroon;
+    text-align: center;
+}
+#A{
+	width:400px;
+	height:450px;
+	float:left;
+	margin-right:40px;
+	border: solid black 1px;
+	padding=2px
+}
+
+#B{
+	width:400px;
+	height:450px;
+	float:left;
+	margin-right:40px;
+	border: solid black 1px;
+	padding=2px
+}
+
+#C{
+	width:400px;
+	height:450px;
+	float:left;
+	margin-right:40px;
+	border: solid black 1px;
+	padding=2px
+}
+#D{
+	width:400px;
+	height:450px;
+	float:left;
+	margin-right:40px;
+	border: solid black 1px;
+	padding=2px
+}
+
+h3{
+	color: maroon;
+	text-align: center;
+    font-size: 80px;
+}
+a{
+    font-family: algerian;
+    font-size: 20px;
+    color:navy;

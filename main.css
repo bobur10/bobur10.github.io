@@ -1,0 +1,46 @@
+body{
+
+    background: url("yes.jpg");
+    background-size: 100%;
+
+}
+h1{
+	font-family: rockwell;
+    font-size: 47px;
+    color:maroon;
+    text-align: center;
+}
+img{
+	width: 430px;
+	height: 400px;
+	float: left;
+	margin-right: 27px;
+}
+#A{
+	color: gray;
+	font-family:algerian;
+	font-size: 32px;
+	font-family:algerian;
+}
+#C{
+	color: white;
+	font-size: 22px;
+	font-family:rockwell;
+	float: center;
+}
+#B{
+	color: darkseagreen;
+	font-family:algerian;
+	font-size: 32px;
+}
+#D{
+	color: white;
+	font-size: 22px;
+	font-family:rockwell;
+}
+#E{
+	color: rosybrown;
+	font-size: 22px;
+	font-family:rockwell;
+	text-align:center;
+}
